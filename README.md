@@ -628,7 +628,7 @@ FortiGate-NGFW-Lab/
 ├── README.md
 │
 ├── Documentation/
-│   ├── FortiGate_NGFW_Deployment_Report.pdf
+│   ├── FortiGate_NGFW_Deployment_and_Configuration_Report.pdf
 │   └── VM-Setup-Guide.md
 │
 ├── Configuration/
