@@ -305,8 +305,9 @@ Together, these commands provided low-level verification of the FortiGate virtua
 For the complete deployment process, Web GUI configuration, management hardening, RBAC implementation, address objects, schedules, service groups, firewall policies, NAT configuration, and screenshots, see the full technical report:
 
 ```text
-Documentation/
-└── FortiGate_NGFW_Deployment_Report.pdf
+ Documentation/
+   ├── FortiGate_NGFW_Deployment_Report.pdf
+   └── VM-Setup-Guide.md
 ```
 
 ---
