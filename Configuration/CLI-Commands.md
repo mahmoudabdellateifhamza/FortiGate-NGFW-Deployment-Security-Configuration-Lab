@@ -306,7 +306,7 @@ For the complete deployment process, Web GUI configuration, management hardening
 
 ```text
  Documentation/
-   ├── FortiGate_NGFW_Deployment_Report.pdf
+   ├── FortiGate_NGFW_Deployment_and_Configuration_Report.pdf
    └── VM-Setup-Guide.md
 ```
 
